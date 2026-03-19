@@ -1,7 +1,7 @@
 # Contributing
 
 ## Build the project
-We recommend using [Android Studio](https://developer.android.com/studio) for building the project.
+We recommend using [Android Studio](https://developer.android.com/studio) for building the project
 
 ## Source code formatting
 - Indents: 4 spaces
